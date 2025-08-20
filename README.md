@@ -49,10 +49,10 @@ Your Trello board is your project’s home base. Think of it as the “canvas”
 2. Once logged in, click **“**Create new board.**”**
 
 3. Enter a name that reflects your project. For example, Marketing Campaign Q3 or Website Redesign.  
-   ![][image2]
+   ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/c6245644fe6b820db714cfab979922adf8c0307a/TB1.png)
 
 4. Pick a background color or image. This isn’t just aesthetic; color can help you distinguish between boards at a glance.  
-   ![][image3]  
+   ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/c6245644fe6b820db714cfab979922adf8c0307a/TR2.png))  
 5. Click **“Create Board.”**
 
 Your empty board is ready. Don’t worry if it looks bare right now; you’ll fill it with lists and cards in the next steps.
