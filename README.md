@@ -52,7 +52,7 @@ Your Trello board is your project’s home base. Think of it as the “canvas”
    ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/c6245644fe6b820db714cfab979922adf8c0307a/TB1.png)
 
 4. Pick a background color or image. This isn’t just aesthetic; color can help you distinguish between boards at a glance.  
-   ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/c6245644fe6b820db714cfab979922adf8c0307a/TR2.png))  
+   ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/c6245644fe6b820db714cfab979922adf8c0307a/TR2.png) 
 5. Click **“Create Board.”**
 
 Your empty board is ready. Don’t worry if it looks bare right now; you’ll fill it with lists and cards in the next steps.
@@ -66,7 +66,7 @@ Your empty board is ready. Don’t worry if it looks bare right now; you’ll fi
 
 Lists in Trello are the columns that define stages in your project workflow. They represent where a task is in its journey from start to finish.
 
-![][image4]
+![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/d57031e0d4d6cf6a3775c32b7e2805bd4e98e7e2/TB3.png)
 
 ### **The Classic Setup:**
 
@@ -106,7 +106,7 @@ Cards are the core of Trello.Each one represents a task, deliverable, or item th
 2. Give it a descriptive title. For example, publish the September newsletter to the email list.
 
 3. Open the card to add details:  
-   ![][image5]  
+   ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/d57031e0d4d6cf6a3775c32b7e2805bd4e98e7e2/TB4.png)  
    * **Description:** Outline what needs to be done.
 
    * **Checklist:** Break the task into smaller, actionable steps.
@@ -115,7 +115,7 @@ Cards are the core of Trello.Each one represents a task, deliverable, or item th
 
    * **Attachments:** Add files or links.
 
-![][image6]
+![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/d57031e0d4d6cf6a3775c32b7e2805bd4e98e7e2/TB5.png)]
 
 4. Assign the card to a team member.
 
@@ -141,7 +141,7 @@ For example:
 
 * **Assignee:** Chioma Ebe \- CE (Content Writer)
 
-**![][image7]**
+![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/d57031e0d4d6cf6a3775c32b7e2805bd4e98e7e2/TB6.png)
 
 This works because anyone can open the card and see exactly what’s expected, by when, and who’s responsible.
 
@@ -157,7 +157,7 @@ Trello makes teamwork smoother by putting everyone in the same visual space.
 
 3. Assign roles: members can edit cards; observers can view only.
 
-![][image8]
+![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/d57031e0d4d6cf6a3775c32b7e2805bd4e98e7e2/TB7.png)
 
 It is best practice to assign tasks clearly. A card without an owner can easily be forgotten.
 
@@ -181,7 +181,7 @@ Use comments inside cards to keep task-related conversations together instead of
 
 Use Trello’s Calendar View to see all deadlines in one place. This is especially helpful for deadline-heavy projects like campaigns or sprints.
 
-![][image9]
+![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/4592499bbce3e0d7f4375b8f396f1031352a56d9/TB8.png)
 
 **Step 6: Going Beyond the Basics with Power-Ups**
 
@@ -192,7 +192,7 @@ Power-Ups extend Trello’s capabilities. Some useful ones include:
 * **Google Drive:** Attach files directly from Drive.
 
 * **Slack:** Get Trello updates in Slack channels.  
-  ![][image10].
+  ![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/4592499bbce3e0d7f4375b8f396f1031352a56d9/TB9.png)
 
 Example Automation:  
  “If a card is moved to ‘Review,’ assign it to the QA lead and set the due date for 2 days later.”
