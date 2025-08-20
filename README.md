@@ -6,8 +6,7 @@ In today’s fast-moving work environment, the pace of information is relentless
 If you’ve ever found yourself flipping through endless email threads, struggling to remember where a file is domiciled, or trying to recall who was supposed to complete that urgent task, you’ve already experienced the pain of disorganized project management.
 
 That’s where Trello comes in.
-
-https://github.com/Udaeze/TW-Week-3-Assignment/blob/main/tRELLO.png
+![image alt](https://github.com/Udaeze/TW-Week-3-Assignment/blob/06bd9dbb770556bf521131fd3f95b9d105393838/tRELLO.png)
 
 Trello is a visual project management tool that uses boards, lists, and cards to give you and your team a clear, shared view of work in progress and what has been completed. Think of it as a digital whiteboard where every sticky note is not just a reminder but a living space for details, files, conversations, and deadlines.
 
