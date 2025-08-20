@@ -7,7 +7,7 @@ If you’ve ever found yourself flipping through endless email threads, struggli
 
 That’s where Trello comes in.
 
-[[[image1]](https://github.com/Udaeze/TW-Week-3-Assignment/blob/main/tRELLO.png)]
+https://github.com/Udaeze/TW-Week-3-Assignment/blob/main/tRELLO.png
 
 Trello is a visual project management tool that uses boards, lists, and cards to give you and your team a clear, shared view of work in progress and what has been completed. Think of it as a digital whiteboard where every sticky note is not just a reminder but a living space for details, files, conversations, and deadlines.
 
